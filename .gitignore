@@ -7,3 +7,5 @@ research/pate_2017/.DS_Store
 *.ckpt-2000.*
 research/.DS_Store
 research/pate_2017/saved/.DS_Store
+.DS_Store
+venv/
