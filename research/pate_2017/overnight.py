@@ -84,7 +84,7 @@ def main():
     and the second person's range would say "range(125,250)".
     """
     n_teach = 250
-    for i in range(0, n_teach):
+    for i in range(150, 200):
         print(f"running teacher {i} now!")
         train_teacher(dataset='svhn',nb_teachers=n_teach,teacher_id=i)
     print("done with teachers! on to the student!")
